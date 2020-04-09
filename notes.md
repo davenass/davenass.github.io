@@ -1,6 +1,6 @@
 # Blog Notes
 
-*[ ] Objet oriented programming in C
+-[ ] Objet oriented programming in C
 *[ ] UML SYSML
 *[ ] data serialization cbor/protobuf/etc.
 *[ ] design patterns
